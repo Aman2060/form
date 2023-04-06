@@ -1,0 +1,57 @@
+h1,h2,h3{
+    color:blue;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
+}
+hr{
+    border-radius: 7px;
+    padding: 5px;
+    background-color:blue;
+}
+P{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20PX;
+    background-color: aqua;
+    padding: 10px;
+}
+.one{
+    padding:10px;
+    width:100px;
+    background-color: cornflowerblue;
+}
+.two{
+    margin:20px;
+    padding:10px;
+    width:150px;
+    background-color:darkblue;
+}
+.three{
+    padding:10px;
+    width:150px;
+    background-color:chocolate;
+}
+.tb{
+    padding:20px;
+    background-color: darkcyan;
+}
+.tb1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color:darkslateblue;
+    position: relative;
+    left:-600px;
+   
+}
+.tb2{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    color:darkslateblue;
+    position: relative;
+    top:-60px;
+    left:-400px;
+}
+.bc1{
+    width:100px;
+    background-color: lightcoral;
+
+}
